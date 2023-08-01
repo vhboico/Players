@@ -26,7 +26,6 @@
         android:fontFamily="@font/rubik_semi_bold"
         android:layout_marginStart="10dp"
         android:textSize="22sp"
-        android:textStyle="bold"
         app:layout_constraintStart_toEndOf="@+id/image_view"
         app:layout_constraintTop_toTopOf="@+id/image_view" />
 
@@ -39,8 +38,7 @@
         android:layout_marginTop="2dp"
         android:text="Meia atacante do São Paulo Futebol Clube"
         android:textSize="14sp"
-        android:fontFamily="@font/semi_bold_italic"
-        android:textStyle="italic"
+        android:fontFamily="@font/rubik_semi_bold"
         app:layout_constraintStart_toEndOf="@+id/image_view"
         app:layout_constraintTop_toBottomOf="@+id/tv_task_title" />
 
@@ -49,9 +47,8 @@
         android:layout_marginStart="10dp"
         android:layout_marginTop="7dp"
         android:textSize="15sp"
-        android:textStyle="italic"
         android:text="Idade: 35 anos"
-        android:fontFamily="@font/semi_bold_italic"
+        android:fontFamily="@font/rubik_semi_bold"
         android:textColor="@color/white"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -63,10 +60,9 @@
         android:text="N° 14"
         android:textSize="15sp"
         android:textColor="@color/white"
-        android:textStyle="italic"
         android:layout_marginStart="32dp"
         android:layout_marginTop="7dp"
-        android:fontFamily="@font/semi_bold_italic"
+        android:fontFamily="@font/rubik_semi_bold"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintStart_toEndOf="@+id/tv_task_age"
